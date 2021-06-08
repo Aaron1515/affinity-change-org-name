@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 
 api_key.py
+new_org_names.py
